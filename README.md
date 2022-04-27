@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**wongbingg/wongbingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm 웡빙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I studied
+21.12.22 ~ 22.03.01 Udemy Angela-Yu iOS & Swift Boot camp 
+
+## Now
+21.04.11 Yagom iOS career starter camp 6기 ~
+
+## Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=wongbingg&show_icons=true&theme=swift)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongbingg&exclude_repo=Window&layout=compact)](https://github.com/wongbingg/github-readme-stats)
+
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwb112)](https://solved.ac/lwb112)
+
+
