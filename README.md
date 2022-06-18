@@ -1,6 +1,6 @@
 
 
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm 웡빙
+## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm 웡빙
 
 ## What I studied
 21.12.22 ~ 22.03.01 Udemy Angela-Yu iOS & Swift Boot camp 
