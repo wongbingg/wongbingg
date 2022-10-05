@@ -6,7 +6,7 @@
 21.12.22 ~ 22.03.01 Udemy Angela-Yu iOS & Swift Boot camp 
 
 ## Now
-21.04.11 Yagom iOS career starter camp 6기 ~
+22.04.11 Yagom iOS career starter camp 6기 ~
 
 ## Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=wongbingg&show_icons=true&theme=swift)
