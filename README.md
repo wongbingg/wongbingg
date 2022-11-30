@@ -7,7 +7,7 @@
 22.04.11 ~ 22.10.07 < Yagom iOS career starter camp 6기 > 
 
 ## Now
-22.10.17 ~ Yagom Academy 서포터즈
+22.10.17 ~ 22.02 Yagom Academy 서포터즈
 
 ## Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=wongbingg&show_icons=true&theme=swift)
