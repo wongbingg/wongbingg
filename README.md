@@ -1,10 +1,14 @@
 
 # hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm 웡빙
 
-## What I studied
-21.12.22 ~ 22.03.01 < Udemy Angela-Yu iOS & Swift Boot camp >
+안녕하세요 **웡빙** 입니다 반갑습니다 ☺️ 
 
-22.04.11 ~ 22.10.07 < Yagom iOS career starter camp 6기 > 
+## What I studied
+21.12.22 ~ 22.03.01 
+< Udemy Angela-Yu iOS & Swift Boot camp >
+
+22.04.11 ~ 22.10.07 
+< Yagom iOS career starter camp 6기 > 
 
 ## Now
 22.10.17 ~ Yagom Academy 서포터즈
