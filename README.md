@@ -3,6 +3,10 @@
 
 안녕하세요 **웡빙** 입니다 반갑습니다 ☺️ 
 
+## Contact
+
+leewonbeen@gmail.com
+
 ## What I studied
 21.12.22 ~ 22.03.01 <br>
 < Udemy Angela-Yu iOS & Swift Boot camp >
