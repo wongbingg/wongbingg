@@ -12,10 +12,16 @@ leewonbeen@gmail.com
 < Udemy Angela-Yu iOS & Swift Boot camp >
 
 22.04.11 ~ 22.10.07 <br>
-< Yagom iOS career starter camp 6기 > 
+< Yagom Academy iOS career starter camp 6기 >
+
+## Experiences
+
+22.10 ~ 23.02 <br>
+< Yagom Academy 서포터즈 >
 
 ## Now
-22.10.17 ~ Yagom Academy 서포터즈
+
+구직중 👀
 
 ## Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=wongbingg&show_icons=true&theme=maroongold)
