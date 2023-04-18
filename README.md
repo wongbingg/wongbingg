@@ -7,6 +7,8 @@
 
 leewonbeen@gmail.com
 
+개인 블로그 : https://velog.io/@lwb112
+
 ## What I studied
 21.12.22 ~ 22.03.01 <br>
 < Udemy Angela-Yu iOS & Swift Boot camp >
