@@ -1,7 +1,7 @@
 
 # hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm 웡빙
 
-안녕하세요 **웡빙** 입니다 반갑습니다 ☺️ 🦕
+안녕하세요 **웡빙** 입니다 반갑습니다 ☺️
 
 ## Contact
 
