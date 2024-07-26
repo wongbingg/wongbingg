@@ -22,8 +22,5 @@ leewonbeen@gmail.com
 < Yagom Academy 서포터즈 >
 
 ## Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=wongbingg&show_icons=true&theme=maroongold)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwb112)](https://solved.ac/lwb112)
-
-
